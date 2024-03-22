@@ -1,0 +1,1 @@
+# magocloud-recorder-installer
