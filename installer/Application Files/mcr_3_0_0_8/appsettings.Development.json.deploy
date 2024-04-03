@@ -1,0 +1,33 @@
+{
+  "LocalEnv": true,
+  "CheckListEnv": false,
+  "ProvisioningSettings": {
+    "MDMUrl": "http://localhost:53973/"
+  },
+  "PlaywrightSettings": {
+    "Tracing": false,
+    "VideoRecording": {
+      "Enabled": false,
+      "OutDir": "data/videos/",
+      "Width": 1024,
+      "Height": 450
+    },
+    "ScreenWidthRecorder": 1536,
+    "ScreenHeightRecorder": 700,
+    "Browser": {
+      "Type": "chrome", //firefox, chrome
+      "Channel": "chrome", //chrome,chrome-beta,msedge,msedge-beta,msedge-dev,firefox
+      "CmdInstall": "chromium" //chromium,chrome-beta,msedge,msedge-beta,msedge-dev,firefox
+    }
+  },
+  "RabbitMQParams": {
+    "ServerUrl": "127.0.0.1",
+    "UserName": "dosa",
+    "Password": "HappyL!me1984",
+    "Port": 5663,
+    //sentinel
+    //"MDMQueue": "DEV-21-3E5BB0-mcrecorder" 
+    "MDMQueue": "develop-matteo-mcrecorder"
+  },
+  "PostgresSqlInstallationPath": "C:\\Program Files\\PostgreSQL\\15\\bin"
+}
