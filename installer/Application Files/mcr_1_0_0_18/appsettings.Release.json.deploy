@@ -1,0 +1,34 @@
+{
+  "LocalEnv": false,
+  "CheckListEnv": true,
+  "ProvisioningSettings": {
+    "GetOTP": "http://54.155.2.169:8881/getotp",
+    "IsAlive": "http://54.155.2.169:8881/isalive",
+    "SecretKeyOTPCode": "757a9f45318d689fb6a428f7b043b6692b923670b7fc118add9fce72e9106aa9",
+    "MDMUrl": ""
+  },
+  "PlaywrightSettings": {
+    "Tracing": true,
+    "VideoRecording": {
+      "Enabled": false,
+      "OutDir": "data/videos/",
+      "Width": 1024,
+      "Height": 450
+    },
+    "ScreenWidthRecorder": 1536,
+    "ScreenHeightRecorder": 700,
+    "Browser": {
+      "Type": "chrome",
+      "Channel": "chrome",
+      "CmdInstall": "chromium"
+    } //chromium, chrome-beta, msedge, firefox
+  },
+  "RabbitMQParams": {
+    "ServerUrl": "release-rrm-01-mq.mago.cloud",
+    "UserName": "dosa",
+    "Password": "HappyL!me1984",
+    "Port": 5672,
+    "MDMQueue": "DEV-23-E7C10C-mcrecorder"
+  },
+  "PostgresSqlInstallationPath": ""
+}
