@@ -1,0 +1,562 @@
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                .playwright
+d----          19/08/2026    16:40                Assets
+d----          19/08/2026    16:40                cs
+d----          19/08/2026    16:40                data
+d----          19/08/2026    16:40                de
+d----          19/08/2026    16:40                es
+d----          19/08/2026    16:40                fr
+d----          19/08/2026    16:40                it
+d----          19/08/2026    16:40                ja
+d----          19/08/2026    16:40                ko
+d----          19/08/2026    16:40                pl
+d----          19/08/2026    16:40                pt-BR
+d----          19/08/2026    16:40                ru
+d----          19/08/2026    16:40                tr
+d----          19/08/2026    16:40                zh-Hans
+d----          19/08/2026    16:40                zh-Hant
+-a---          05/06/2026    10:55           1005 appsettings.Development.json.deploy
+-a---          05/06/2026    10:55            842 appsettings.json.deploy
+-a---          05/06/2026    10:55           1046 appsettings.Production.json.deploy
+-a---          05/06/2026    10:55           1053 appsettings.Release.json.deploy
+-a---          05/06/2026    10:55           1073 appsettings.Test.json.deploy
+-a---          03/06/2025    05:34        5426176 av_libglesv2.dll.deploy
+-a---          27/03/2026    20:57        2127360 Avalonia.Base.dll.deploy
+-a---          27/03/2026    20:57         481280 Avalonia.Controls.ColorPicker.dll.deploy
+-a---          28/03/2026    11:11         368128 Avalonia.Controls.DataGrid.dll.deploy
+-a---          27/03/2026    20:57        1086976 Avalonia.Controls.dll.deploy
+-a---          27/03/2026    20:57         209920 Avalonia.DesignerSupport.dll.deploy
+-a---          27/03/2026    20:57          15360 Avalonia.Desktop.dll.deploy
+-a---          27/03/2026    20:57         637952 Avalonia.Diagnostics.dll.deploy
+-a---          27/03/2026    20:57         244736 Avalonia.Dialogs.dll.deploy
+-a---          27/03/2026    20:57           4096 Avalonia.dll.deploy
+-a---          27/03/2026    20:57        1892864 Avalonia.Fonts.Inter.dll.deploy
+-a---          27/03/2026    20:57         201216 Avalonia.FreeDesktop.dll.deploy
+-a---          08/04/2026    04:38         268800 Avalonia.HtmlRenderer.dll.deploy
+-a---          27/03/2026    20:57          65536 Avalonia.Markup.dll.deploy
+-a---          27/03/2026    20:57          88064 Avalonia.Markup.Xaml.dll.deploy
+-a---          27/03/2026    20:57          15360 Avalonia.Metal.dll.deploy
+-a---          27/03/2026    20:57          15872 Avalonia.MicroCom.dll.deploy
+-a---          27/03/2026    20:57         336896 Avalonia.Native.dll.deploy
+-a---          27/03/2026    20:57         115712 Avalonia.OpenGL.dll.deploy
+-a---          27/03/2026    20:57          70656 Avalonia.Remote.Protocol.dll.deploy
+-a---          27/03/2026    20:57         133120 Avalonia.Skia.dll.deploy
+-a---          27/03/2026    20:57         587264 Avalonia.Themes.Fluent.dll.deploy
+-a---          27/03/2026    20:57         300032 Avalonia.Themes.Simple.dll.deploy
+-a---          27/03/2026    20:57         190464 Avalonia.Vulkan.dll.deploy
+-a---          27/03/2026    20:57         116224 Avalonia.Win32.Automation.dll.deploy
+-a---          27/03/2026    20:57         924672 Avalonia.Win32.dll.deploy
+-a---          27/03/2026    20:57         360960 Avalonia.X11.dll.deploy
+-a---          17/11/2024    12:43          35328 AvaloniaProgressRing.dll.deploy
+-a---          26/10/2025    05:04        2433536 Bogus.dll.deploy
+-a---          03/06/2025    12:20         970240 DynamicData.dll.deploy
+-a---          15/06/2026    08:07         390144 EasyNetQ.dll.deploy
+-a---          04/04/2026    18:25        3448832 FluentAvalonia.dll.deploy
+-a---          26/06/2020    06:01          39936 FuzzySharp.dll.deploy
+-a---          25/04/2025    20:37         122440 HarfBuzzSharp.dll.deploy
+-a---          03/10/2025    16:39         171008 HtmlAgilityPack.dll.deploy
+-a---          19/08/2026    16:40          20944 Launcher.exe.deploy
+-a---          25/04/2025    20:37        1804872 libHarfBuzzSharp.dll.deploy
+-a---          07/11/2024    14:55        9414216 libSkiaSharp.dll.deploy
+-a---          19/08/2026    16:40         300032 Magocloud.Playwright.dll.deploy
+-a---          19/08/2026    16:40         117286 mcPlayer.zip.deploy
+-a---          19/08/2026    16:40          74717 mcr.deps.json.deploy
+-a---          19/08/2026    16:40        5888976 mcr.dll.deploy
+-a---          19/08/2026    16:40         139722 mcr.dll.manifest
+-a---          19/08/2026    16:40         207312 mcr.exe.deploy
+-a---          19/08/2026    16:40            342 mcr.runtimeconfig.json.deploy
+-a---          02/11/2022    10:37          14336 MicroCom.Runtime.dll.deploy
+-a---          23/10/2021    01:47          16000 Microsoft.Bcl.AsyncInterfaces.dll.deploy
+-a---          13/01/2026    21:59          16648 Microsoft.Bcl.Cryptography.dll.deploy
+-a---          28/01/2026    19:30        6895408 Microsoft.CodeAnalysis.CSharp.dll.deploy
+-a---          28/01/2026    19:32          35080 Microsoft.CodeAnalysis.CSharp.Scripting.dll.deploy
+-a---          28/01/2026    19:29        3066128 Microsoft.CodeAnalysis.dll.deploy
+-a---          28/01/2026    19:31         138032 Microsoft.CodeAnalysis.Scripting.dll.deploy
+-a---          24/04/2026    13:32        1849752 Microsoft.Data.SqlClient.dll.deploy
+-a---          17/03/2026    16:36          23672 Microsoft.Data.SqlClient.Extensions.Abstractions.dll.deploy
+-a---          17/03/2026    16:11          53880 Microsoft.Data.SqlClient.Internal.Logging.dll.deploy
+-a---          16/01/2025    01:23         566832 Microsoft.Data.SqlClient.SNI.dll.deploy
+-a---          13/01/2026    21:59          36624 Microsoft.Extensions.Caching.Abstractions.dll.deploy
+-a---          13/01/2026    22:00          48944 Microsoft.Extensions.Caching.Memory.dll.deploy
+-a---          20/05/2026    21:29          28496 Microsoft.Extensions.Configuration.Abstractions.dll.deploy
+-a---          20/05/2026    21:32          43344 Microsoft.Extensions.Configuration.Binder.dll.deploy
+-a---          20/05/2026    21:29          44880 Microsoft.Extensions.Configuration.dll.deploy
+-a---          20/05/2026    21:34          28496 Microsoft.Extensions.Configuration.FileExtensions.dll.deploy
+-a---          20/05/2026    21:36          27984 Microsoft.Extensions.Configuration.Json.dll.deploy
+-a---          20/05/2026    21:29          65872 Microsoft.Extensions.DependencyInjection.Abstractions.dll.deploy
+-a---          20/05/2026    21:30          95568 Microsoft.Extensions.DependencyInjection.dll.deploy
+-a---          20/05/2026    21:29          23376 Microsoft.Extensions.FileProviders.Abstractions.dll.deploy
+-a---          20/05/2026    21:33          45392 Microsoft.Extensions.FileProviders.Physical.dll.deploy
+-a---          20/05/2026    21:30          47952 Microsoft.Extensions.FileSystemGlobbing.dll.deploy
+-a---          17/04/2026    20:56          67376 Microsoft.Extensions.Logging.Abstractions.dll.deploy
+-a---          20/05/2026    21:30          65360 Microsoft.Extensions.Options.dll.deploy
+-a---          20/05/2026    21:29          44880 Microsoft.Extensions.Primitives.dll.deploy
+-a---          12/02/2026    04:32          19528 Microsoft.IdentityModel.Abstractions.dll.deploy
+-a---          12/02/2026    04:32         173088 Microsoft.IdentityModel.JsonWebTokens.dll.deploy
+-a---          12/02/2026    04:32          38432 Microsoft.IdentityModel.Logging.dll.deploy
+-a---          12/02/2026    04:32          53280 Microsoft.IdentityModel.Protocols.dll.deploy
+-a---          12/02/2026    04:32         137248 Microsoft.IdentityModel.Protocols.OpenIdConnect.dll.deploy
+-a---          12/02/2026    04:32         391200 Microsoft.IdentityModel.Tokens.dll.deploy
+-a---          21/05/2026    19:24        1033056 Microsoft.Playwright.dll.deploy
+-a---          27/01/2022    18:19          23976 Microsoft.SqlServer.Server.dll.deploy
+-a---          16/09/2025    10:04         723368 Newtonsoft.Json.dll.deploy
+-a---          27/05/2026    13:32        1478656 Npgsql.dll.deploy
+-a---          01/12/2025    20:32          17920 Otp.NET.dll.deploy
+-a---          21/05/2026    18:46            412 playwright.ps1.deploy
+-a---          25/02/2026    21:19         352256 RabbitMQ.Client.dll.deploy
+-a---          25/10/2025    03:51          63792 ReactiveUI.Avalonia.dll.deploy
+-a---          25/10/2025    03:30         503080 ReactiveUI.dll.deploy
+-a---          10/02/2026    23:03         162304 Serilog.dll.deploy
+-a---          10/06/2024    00:17           9728 Serilog.Formatting.Compact.dll.deploy
+-a---          02/11/2025    22:00          38400 Serilog.Sinks.Console.dll.deploy
+-a---          14/06/2024    10:12           7168 Serilog.Sinks.Debug.dll.deploy
+-a---          28/04/2025    02:38          36864 Serilog.Sinks.File.dll.deploy
+-a---          05/01/2026    09:21          31744 SimpleExec.dll.deploy
+-a---          07/11/2024    14:55         437808 SkiaSharp.dll.deploy
+-a---          12/07/2017    13:24         160040 sni.dll.deploy
+-a---          23/09/2025    14:52          32048 Splat.Builder.dll.deploy
+-a---          23/09/2025    14:52          50992 Splat.Core.dll.deploy
+-a---          23/09/2025    14:51          55088 Splat.dll.deploy
+-a---          23/09/2025    14:53         111920 Splat.Logging.dll.deploy
+-a---          20/05/2026    20:14         151392 System.CommandLine.dll.deploy
+-a---          13/01/2026    21:59         443192 System.Configuration.ConfigurationManager.dll.deploy
+-a---          12/02/2026    01:42        1027344 System.Data.SqlClient.dll.deploy
+-a---          20/05/2026    21:30         176464 System.Diagnostics.EventLog.dll.deploy
+-a---          20/05/2026    21:29         800592 System.Diagnostics.EventLog.Messages.dll.deploy
+-a---          12/02/2026    04:32          92232 System.IdentityModel.Tokens.Jwt.dll.deploy
+-a---          03/10/2025    08:22        1349584 System.Reactive.dll.deploy
+-a---          13/01/2026    22:00         319288 System.Security.Cryptography.Pkcs.dll.deploy
+-a---          13/01/2026    21:59          38672 System.Security.Cryptography.ProtectedData.dll.deploy
+-a---          20/05/2026    21:32          91984 System.ServiceProcess.ServiceController.dll.deploy
+-a---          31/10/2023    15:59          68896 System.Threading.RateLimiting.dll.deploy
+-a---          22/11/2024    11:22         200704 Tmds.DBus.Protocol.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                node
+d----          19/08/2026    16:40                package
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\node
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                win32_x64
+-a---          11/05/2026    21:10         156926 LICENSE.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\node\win32_x64
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:11       91694408 node.exe.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                bin
+d----          19/08/2026    16:40                lib
+d----          19/08/2026    16:40                types
+-a---          11/05/2026    21:10        2824926 api.json.deploy
+-a---          11/05/2026    21:10           1941 browsers.json.deploy
+-a---          11/05/2026    21:10            839 cli.js.deploy
+-a---          11/05/2026    21:10            634 index.d.ts.deploy
+-a---          11/05/2026    21:10           1117 index.js.deploy
+-a---          11/05/2026    21:10           1063 index.mjs.deploy
+-a---          11/05/2026    21:10          11601 LICENSE.deploy
+-a---          11/05/2026    21:10            254 NOTICE.deploy
+-a---          11/05/2026    21:10            876 package.json.deploy
+-a---          11/05/2026    21:10         100404 protocol.yml.deploy
+-a---          11/05/2026    21:10            120 README.md.deploy
+-a---          11/05/2026    21:10            676 ThirdPartyNotices.txt.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\bin
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10            174 install_media_pack.ps1.deploy
+-a---          11/05/2026    21:10           1464 install_webkit_wsl.ps1.deploy
+-a---          11/05/2026    21:10           1214 reinstall_chrome_beta_linux.sh.deploy
+-a---          11/05/2026    21:10            560 reinstall_chrome_beta_mac.sh.deploy
+-a---          11/05/2026    21:10            957 reinstall_chrome_beta_win.ps1.deploy
+-a---          11/05/2026    21:10           1209 reinstall_chrome_stable_linux.sh.deploy
+-a---          11/05/2026    21:10            516 reinstall_chrome_stable_mac.sh.deploy
+-a---          11/05/2026    21:10            923 reinstall_chrome_stable_win.ps1.deploy
+-a---          11/05/2026    21:10           1491 reinstall_msedge_beta_linux.sh.deploy
+-a---          11/05/2026    21:10            374 reinstall_msedge_beta_mac.sh.deploy
+-a---          11/05/2026    21:10            874 reinstall_msedge_beta_win.ps1.deploy
+-a---          11/05/2026    21:10           1486 reinstall_msedge_dev_linux.sh.deploy
+-a---          11/05/2026    21:10            369 reinstall_msedge_dev_mac.sh.deploy
+-a---          11/05/2026    21:10            869 reinstall_msedge_dev_win.ps1.deploy
+-a---          11/05/2026    21:10           1504 reinstall_msedge_stable_linux.sh.deploy
+-a---          11/05/2026    21:10            368 reinstall_msedge_stable_mac.sh.deploy
+-a---          11/05/2026    21:10            856 reinstall_msedge_stable_win.ps1.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                entry
+d----          19/08/2026    16:40                server
+d----          19/08/2026    16:40                tools
+d----          19/08/2026    16:40                vite
+-a---          11/05/2026    21:10           3100 bootstrap.js.deploy
+-a---          11/05/2026    21:10        3206963 coreBundle.js.deploy
+-a---          11/05/2026    21:10           2112 package.js.deploy
+-a---          11/05/2026    21:10         247054 serverRegistry.js.deploy
+-a---          11/05/2026    21:10          18617 serverRegistry.js.LICENSE.deploy
+-a---          11/05/2026    21:10        3093405 utilsBundle.js.deploy
+-a---          11/05/2026    21:10         107836 utilsBundle.js.LICENSE.deploy
+-a---          11/05/2026    21:10          25778 xdg-open.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\entry
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10            197 cliDaemon.js.deploy
+-a---          11/05/2026    21:10            108 dashboardApp.js.deploy
+-a---          11/05/2026    21:10            442 mcp.js.deploy
+-a---          11/05/2026    21:10            120 oopBrowserDownload.js.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\server
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                chromium
+d----          19/08/2026    16:40                electron
+-a---          11/05/2026    21:10          54181 deviceDescriptorsSource.json.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\server\chromium
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10          16565 appIcon.png.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\server\electron
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10           4821 loader.js.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\tools
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                cli-client
+d----          19/08/2026    16:40                dashboard
+d----          19/08/2026    16:40                trace
+d----          19/08/2026    16:40                utils
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\tools\cli-client
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                skill
+-a---          11/05/2026    21:10           7087 channelSessions.js.deploy
+-a---          11/05/2026    21:10            153 cli.js.deploy
+-a---          11/05/2026    21:10          35416 help.json.deploy
+-a---          11/05/2026    21:10           4106 minimist.js.deploy
+-a---          11/05/2026    21:10          11685 output.js.deploy
+-a---          11/05/2026    21:10          15020 program.js.deploy
+-a---          11/05/2026    21:10           6670 registry.js.deploy
+-a---          11/05/2026    21:10           9948 session.js.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\tools\cli-client\skill
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                references
+-a---          11/05/2026    21:10          11263 SKILL.md.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\tools\cli-client\skill\references
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10            665 element-attributes.md.deploy
+-a---          11/05/2026    21:10           1690 playwright-tests.md.deploy
+-a---          11/05/2026    21:10           2182 request-mocking.md.deploy
+-a---          11/05/2026    21:10           5642 running-code.md.deploy
+-a---          11/05/2026    21:10           5671 session-management.md.deploy
+-a---          11/05/2026    21:10          11578 spec-driven-testing.md.deploy
+-a---          11/05/2026    21:10           5198 storage-state.md.deploy
+-a---          11/05/2026    21:10           4585 test-generation.md.deploy
+-a---          11/05/2026    21:10           3440 tracing.md.deploy
+-a---          11/05/2026    21:10           5385 video-recording.md.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\tools\dashboard
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10          18945 appIcon.png.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\tools\trace
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10           4712 SKILL.md.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\tools\utils
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10           3132 extension.js.deploy
+-a---          11/05/2026    21:10           3317 socketConnection.js.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\vite
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                dashboard
+d----          19/08/2026    16:40                htmlReport
+d----          19/08/2026    16:40                recorder
+d----          19/08/2026    16:40                traceViewer
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\vite\dashboard
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                assets
+-a---          11/05/2026    21:10           1078 index.html.deploy
+-a---          11/05/2026    21:10           5645 playwright-logo.svg.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\vite\dashboard\assets
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10          80340 codicon-DCmgc-ay.ttf.deploy
+-a---          11/05/2026    21:10           7488 firefox-1bWoP6pv.svg.deploy
+-a---          11/05/2026    21:10           9280 firefox-beta-k3eOH_eK.svg.deploy
+-a---          11/05/2026    21:10           9143 firefox-nightly-Cp5nfeDT.svg.deploy
+-a---          11/05/2026    21:10         142433 index-BY2S1tHT.css.deploy
+-a---          11/05/2026    21:10         331408 index-DpEq2p62.js.deploy
+-a---          11/05/2026    21:10           5254 safari-na3_-uQk.svg.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\vite\htmlReport
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10            464 index.html.deploy
+-a---          11/05/2026    21:10         108330 report.css.deploy
+-a---          11/05/2026    21:10         415587 report.js.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\vite\recorder
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                assets
+-a---          11/05/2026    21:10           1078 index.html.deploy
+-a---          11/05/2026    21:10           5033 playwright-logo.svg.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\vite\recorder\assets
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10         313009 codeMirrorModule-BHYmBp6h.js.deploy
+-a---          11/05/2026    21:10           6421 codeMirrorModule-DYBRYzYX.css.deploy
+-a---          11/05/2026    21:10          80340 codicon-DCmgc-ay.ttf.deploy
+-a---          11/05/2026    21:10          92234 index-4ZiSSCmn.css.deploy
+-a---          11/05/2026    21:10         364880 index-DA10QRaq.js.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\vite\traceViewer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          19/08/2026    16:40                assets
+-a---          11/05/2026    21:10           6421 codeMirrorModule.DYBRYzYX.css.deploy
+-a---          11/05/2026    21:10          80340 codicon.DCmgc-ay.ttf.deploy
+-a---          11/05/2026    21:10         110856 defaultSettingsView.BDKsFU3c.css.deploy
+-a---          11/05/2026    21:10           6591 index.BCnMPevh.js.deploy
+-a---          11/05/2026    21:10           2111 index.CzXZzn5A.css.deploy
+-a---          11/05/2026    21:10           2363 index.html.deploy
+-a---          11/05/2026    21:10            429 manifest.webmanifest.deploy
+-a---          11/05/2026    21:10           5033 playwright-logo.svg.deploy
+-a---          11/05/2026    21:10            389 snapshot.html.deploy
+-a---          11/05/2026    21:10            660 snapshot.v8KI4P3m.js.deploy
+-a---          11/05/2026    21:10          95469 sw.bundle.js.deploy
+-a---          11/05/2026    21:10          60239 uiMode.Btcz36p_.css.deploy
+-a---          11/05/2026    21:10          38201 uiMode.C2Efnu2P.js.deploy
+-a---          11/05/2026    21:10            727 uiMode.html.deploy
+-a---          11/05/2026    21:10           4150 xtermModule.DYP7pi_n.css.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\lib\vite\traceViewer\assets
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10         313054 codeMirrorModule-Ds_H_9Yq.js.deploy
+-a---          11/05/2026    21:10         649133 defaultSettingsView-D31xz8zv.js.deploy
+-a---          11/05/2026    21:10            819 urlMatch-BYQrIQwR.js.deploy
+-a---          11/05/2026    21:10         292244 xtermModule-CsJ4vdCR.js.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\.playwright\package\types
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/05/2026    21:10         812393 protocol.d.ts.deploy
+-a---          11/05/2026    21:10           2103 structs.d.ts.deploy
+-a---          11/05/2026    21:10        1013672 types.d.ts.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\Assets
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          03/04/2023    17:02          40363 record.ico.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\cs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         446216 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17168 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          40752 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18184 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:39         259992 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\data
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          25/03/2025    11:50            441 config-template.config.json.deploy
+-a---          28/06/2024    16:15           1353 customStyle.css.deploy
+-a---          28/06/2024    16:33          26119 interceptor.css.deploy
+-a---          19/08/2026    12:37         255574 interceptor.js.deploy
+-a---          03/04/2023    17:02            673 select.js.deploy
+-a---          14/03/2024    12:00           1440 toast.js.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\de
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         476936 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17672 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          42248 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18704 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:39         270232 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\es
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         466704 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17680 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          41736 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18224 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:40         262040 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\fr
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         480016 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17168 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          42288 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18696 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:39         271296 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\it
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         472848 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17160 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          42256 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18704 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:40         263104 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\ja
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         521488 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17712 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          44848 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18704 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:39         292760 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\ko
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         477968 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17200 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          42288 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18696 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:39         270744 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\pl
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         479536 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17168 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          42288 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18704 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:40         269720 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\pt-BR
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         458512 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17200 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          41272 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18192 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:39         257944 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\ru
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         629512 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          18192 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          50448 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          19768 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:39         348568 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          19296 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\tr
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         453392 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17712 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          41264 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18232 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:39         253336 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\zh-Hans
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         404232 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17168 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          38160 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18192 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:39         228248 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
+    Directory: C:\Develop\magocloud-recorder\mcr\bin\Publish\Application Files\mcr_3_0_0_70\zh-Hant
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          28/01/2026    19:30         404232 Microsoft.CodeAnalysis.CSharp.resources.dll.deploy
+-a---          28/01/2026    19:32          17168 Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll.deploy
+-a---          28/01/2026    19:29          38672 Microsoft.CodeAnalysis.resources.dll.deploy
+-a---          28/01/2026    19:31          18184 Microsoft.CodeAnalysis.Scripting.resources.dll.deploy
+-a---          24/04/2026    13:39         231824 Microsoft.Data.SqlClient.resources.dll.deploy
+-a---          20/05/2026    20:14          18784 System.CommandLine.resources.dll.deploy
+
